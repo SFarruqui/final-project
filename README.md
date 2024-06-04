@@ -1,6 +1,6 @@
 # Portfolio Site
 
-My portfolio website in old-school Windows style
+My portfolio website is inspired by an old-school Windows style.
 
 # Preview
 
